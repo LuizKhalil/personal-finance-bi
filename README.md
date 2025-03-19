@@ -20,7 +20,7 @@ This project is a **Business Intelligence (BI) dashboard** for **personal financ
 
 ## 📊 Dashboard Overview
 ### **1️⃣ Monthly Cash Flow**
-![Monthly Cash Flow](reports/monthly_cash_flow.png)
+![Monthly Cash Flow](Monthly_Cash_Flow.png)
 
 ### **2️⃣ Balance Evolution**
 ![Balance Evolution](reports/balance_evolution.png)
