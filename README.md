@@ -19,17 +19,19 @@ This project is a **Business Intelligence (BI) dashboard** for **personal financ
 │── LICENSE # License (optional)
 
 ## 📊 Dashboard Overview
-### **1️⃣ Monthly Cash Flow**
-![Monthly Cash Flow](Monthly_Cash_Flow.png)
 
-### **2️⃣ Balance Evolution**
-![Balance Evolution](reports/balance_evolution.png)
+### 1️⃣ Monthly Cash Flow
+![Monthly Cash Flow](reports/Monthly_Cash_Flow.png)
 
-### **3️⃣ Expenses by Category**
-![Expenses by Category](reports/expenses_by_category.png)
+### 2️⃣ Balance Evolution
+![Balance Evolution](reports/Balance_Evolution.png)
 
-### **4️⃣ Income Breakdown & Investment Growth (%)**
-![Income Breakdown](reports/income_breakdown_investment_growth.png)
+### 3️⃣ Expenses by Category
+![Expenses by Category](reports/Expenses_by_Category.png)
+
+### 4️⃣ Income Breakdown & Investment Growth (%)
+![Income Breakdown & Investment Growth](reports/Income_Breakdown_Investment_Growth.png)
+
 
 ## 🚀 How to Use the Dashboard
 1. **Follow the [Setup Guide](docs/setup_guide.md)** to configure **Google BigQuery**.
